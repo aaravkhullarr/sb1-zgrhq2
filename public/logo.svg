@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160">
+  <g>
+    <path d="M120 20c-44.183 0-80 35.817-80 80s35.817 80 80 80 80-35.817 80-80-35.817-80-80-80zm0 140c-33.137 0-60-26.863-60-60s26.863-60 60-60 60 26.863 60 60-26.863 60-60 60z" fill="#040084"/>
+    <image href="/huskie-icon.png" x="45" y="45" width="150" height="150"/>
+    <text x="240" y="120" font-family="Cocomat Pro" font-size="120" fill="#040084">eats.</text>
+  </g>
+</svg>
